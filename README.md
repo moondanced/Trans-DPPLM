@@ -1,12 +1,6 @@
 # Trans-DPPLM
 This is a project for summitted paper 'KNOWLEDGE TRANSFER FOR SPARSE PARTIAL LINEAR MODELS  WITH PRIVACY GUARANTEE ESTIMATION, INFERENCE AND MULTIPLE TESTING'
 
-
-# Trans-DPPLM final submission files
-
-This directory contains the final manuscript sources, the figures used by the
-manuscript and supplement, and the experiment code and results.
-
 ## Code layout
 
 ```text
